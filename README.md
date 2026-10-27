@@ -36,6 +36,9 @@ Because the assigned variant is a **missense variant**, a linear protein map was
 
 ## d. Results
 
+[View MYL2 Summary](https://github.com/gelav6213/Muscle-Contractility-MYL2/blob/main/Results/MYL2_summary.txt)
+[View protein accession](PASTE_THE_COPIED_URL_HERE)
+[View amino acid composition](PASTE_THE_COPIED_URL_HERE)
 The following files contain the outputs of the MYL2 analysis:
 
 | File | Description |
