@@ -36,6 +36,15 @@ Because the assigned variant is a **missense variant**, a linear protein map was
 
 ## d. Results
 
+The following files contain the outputs of the MYL2 analysis:
+
+| File | Description |
+|---|---|
+| `MYL2_summary.txt` | Summary of the MYL2 gene information |
+| `protein_accession.txt` | Reference protein accession information |
+| `amino_acid_composition.csv` | Amino-acid composition counts |
+
+
 ## d. Figures
 - 01_amino_acid_composition.png
 <img width="2400" height="1500" alt="1055" src="https://github.com/user-attachments/assets/8b00b004-05da-484f-89d5-5a31027d6a8e" />
