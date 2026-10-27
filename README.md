@@ -36,17 +36,9 @@ Because the assigned variant is a **missense variant**, a linear protein map was
 
 ## d. Results
 
-[View MYL2 Summary](https://github.com/gelav6213/Muscle-Contractility-MYL2/blob/main/Results/MYL2_summary.txt)
-[View protein accession](PASTE_THE_COPIED_URL_HERE)
-[View amino acid composition](PASTE_THE_COPIED_URL_HERE)
-The following files contain the outputs of the MYL2 analysis:
-
-| File | Description |
-|---|---|
-| `MYL2_summary.txt` | Summary of the MYL2 gene information |
-| `protein_accession.txt` | Reference protein accession information |
-| `amino_acid_composition.csv` | Amino-acid composition counts |
-
+- [View MYL2 Summary](https://github.com/gelav6213/Muscle-Contractility-MYL2/blob/main/Results/MYL2_summary.txt)
+- [View protein accession](https://github.com/gelav6213/Muscle-Contractility-MYL2/blob/main/Results/protein_accession.txt)
+- [View amino acid composition](https://github.com/gelav6213/Muscle-Contractility-MYL2/blob/main/Results/amino_acid_composition.csv)
 
 ## d. Figures
 - 01_amino_acid_composition.png
@@ -55,21 +47,30 @@ The following files contain the outputs of the MYL2 analysis:
 - 02_variant_position.png
 <img width="2400" height="750" alt="1058" src="https://github.com/user-attachments/assets/0c040b8e-e934-4257-b2a9-19ef639e3ed9" />
 
-## e. Variant Interpretation
+## (e) Variant Interpretation
 
-## f. Limitations
+The **MYL2** gene encodes myosin regulatory light chain 2, a protein involved in regulating myosin function during muscle contraction, particularly in cardiac muscle. The assigned variant, **NM_000432.4:c.485G>A (p.Gly162Glu)**, is a missense variant that changes the amino acid glycine to glutamic acid at position 162 of the protein.
 
-## f. Proposed Validation Experiment
+This amino acid substitution may affect the protein's structure or function, potentially influencing normal cardiac muscle contraction. However, the actual effect of this specific variant cannot be concluded from the sequence change alone. Its interpretation should consider the current ClinVar classification, available experimental evidence, and any computational predictions. A clinical association or computational prediction alone does not prove that the variant directly causes a functional change.
 
-[Your proposed functional experiment.]
+### Limitations
+
+This analysis uses the MYL2 reference sequence, amino-acid composition, variant information, and ClinVar classifications. These sources help identify the amino acid substitution and its reported clinical significance, but they do not directly measure how the variant affects protein function or cardiac muscle contraction. Although ClinVar classifies the variant as likely pathogenic or pathogenic for the listed conditions, these classifications alone do not establish the exact molecular mechanism responsible for the effect.
+
+### Possible Validation Experiment
+
+A possible validation experiment would compare the functional effects of normal MYL2 with the MYL2 variant containing the p.Gly162Glu substitution. Both versions could be evaluated under the same experimental conditions using an appropriate cardiac muscle model or myosin functional assay. Researchers could measure differences in contractile performance or relevant myosin-related activity. Appropriate controls and repeated measurements would help determine whether the substitution produces a measurable functional change.
 
 ## g. References and Database Sources
-### database links
 
-### accession versions: 
-### access dates: 
+### database links
+- NCBI Gene: https://www.ncbi.nlm.nih.gov/gene/4633?utm_source
+- NCBI Nucleotide (RefSeq NM_): https://www.ncbi.nlm.nih.gov/nuccore/NM_000432.4?utm_source
+- NCBI ClinVar: https://www.ncbi.nlm.nih.gov/clinvar/variation/43479/
+
+### accession versions: NM_000432.4
+### access dates: October 27, 2026
 ### citations 
-- NCBI Gene: https://www.ncbi.nlm.nih.gov/gene/
-- NCBI Protein: https://www.ncbi.nlm.nih.gov/protein/
-- NCBI Nucleotide (RefSeq NM_): https://www.ncbi.nlm.nih.gov/nuccore/
-- NCBI ClinVar: https://www.ncbi.nlm.nih.gov/clinvar/
+- https://www.ncbi.nlm.nih.gov/gene/4633?utm_source
+- https://www.ncbi.nlm.nih.gov/nuccore/NM_000432.4?utm_source
+- https://www.ncbi.nlm.nih.gov/clinvar/variation/43479/
