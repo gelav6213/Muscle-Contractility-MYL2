@@ -35,7 +35,6 @@ The assigned ClinVar variant, **ClinVar Variation ID 43479**, was manually exami
 Because the assigned variant is a **missense variant**, a linear protein map was created to show the MYL2 reference protein and the location of the affected amino-acid residue, **Gly162**. The figure was saved as `figures/02_variant_position.png`. 
 
 ## d. Results
-[View Gene Summary](./results/gene_summary.txt)
 
 ## d. Figures
 - 01_amino_acid_composition.png
