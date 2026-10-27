@@ -1,1 +1,4 @@
-
+Gene symbol: MYL2
+NCBI Gene ID: 4633
+Official name: myosin light chain 2
+Chromosome: 12
