@@ -34,6 +34,25 @@ The assigned ClinVar variant, **ClinVar Variation ID 43479**, was manually exami
 ### Step 6. Biological Visualization
 Because the assigned variant is a **missense variant**, a linear protein map was created to show the MYL2 reference protein and the location of the affected amino-acid residue, **Gly162**. The figure was saved as `figures/02_variant_position.png`. 
 
+## V. Questions to answer in README.md
+### 1. What does your assigned gene encode, and how does this protein contribute to muscle function?
+- The MYL2 gene encodes myosin regulatory light chain 2, a sarcomeric protein found particularly in cardiac muscle. It contributes to the regulation of cardiac myosin activity and helps support normal heart muscle contraction. Changes in MYL2 can be associated with hypertrophic cardiomyopathy and other muscle disorders.
+
+### 2. What was the exact protein accession and length retrieved with R?
+- The reference protein accession associated with transcript NM_000432.4 is NP_000423.2, which contains 166 amino acids.
+
+### 3. What did the amino-acid composition chart show? What can it NOT tell you?
+- 
+
+### 4. What is your fixed ClinVar variant, and what is its current classification and evidence strength?
+- My assigned variant is NM_000432.4(MYL2):c.485G>A (p.Gly162Glu), ClinVar Variation ID 43479. The nucleotide substitution changes glycine to glutamic acid at amino acid position 162. The ClinVar record classifies it as likely pathogenic for hypertrophic cardiomyopathy, based on an expert panel review by the ClinGen Cardiomyopathy Variant Curation Expert Panel, last evaluated on November 14, 2025. The expert-panel assessment cites evidence including segregation with disease in affected relatives, rarity in population databases, an association with hypertrophic cardiomyopathy, and computational predictions. Other condition-specific submissions list different classifications, including pathogenic for hypertrophic cardiomyopathy 10.
+  
+### 5. What is the scientifically supported mechanism linking this variant to muscle function, and what remains uncertain?
+- The variant replaces glycine, a neutral and nonpolar amino acid, with glutamic acid, an acidic and polar amino acid. ClinVar reports that the variant has been observed in individuals with hypertrophic cardiomyopathy and has segregated with disease in related individuals. Computational predictions also suggest a possible disruptive effect on the protein. However, these findings do not, by themselves, establish the exact molecular changes caused by the substitution or how those changes affect cardiac muscle contraction.
+  
+### 6. What additional experiment would help test the proposed mechanism?
+- A useful experiment would compare normal MYL2 with the p.Gly162Glu variant in an appropriate cardiac muscle model or myosin functional assay. Researchers could measure relevant myosin activity or contractile performance under the same conditions, using appropriate controls and repeated measurements. This would help determine whether the variant produces a measurable functional change.
+
 ## d. Results
 
 - [View MYL2 Summary](https://github.com/gelav6213/Muscle-Contractility-MYL2/blob/main/Results/MYL2_summary.txt)
