@@ -42,7 +42,7 @@ Because the assigned variant is a **missense variant**, a linear protein map was
 - The reference protein accession associated with transcript NM_000432.4 is NP_000423.2, which contains 166 amino acids.
 
 ### 3. What did the amino-acid composition chart show? What can it NOT tell you?
-- 
+- The amino-acid composition chart showed the total count and frequency of each amino acid in the MYL2 protein sequence, represented by standard one-letter codes such as A, C, D, and E. However, it cannot show the order or exact positions of amino acids in the sequence, the protein’s three-dimensional structure, or its functional domains.
 
 ### 4. What is your fixed ClinVar variant, and what is its current classification and evidence strength?
 - My assigned variant is NM_000432.4(MYL2):c.485G>A (p.Gly162Glu), ClinVar Variation ID 43479. The nucleotide substitution changes glycine to glutamic acid at amino acid position 162. The ClinVar record classifies it as likely pathogenic for hypertrophic cardiomyopathy, based on an expert panel review by the ClinGen Cardiomyopathy Variant Curation Expert Panel, last evaluated on November 14, 2025. The expert-panel assessment cites evidence including segregation with disease in affected relatives, rarity in population databases, an association with hypertrophic cardiomyopathy, and computational predictions. Other condition-specific submissions list different classifications, including pathogenic for hypertrophic cardiomyopathy 10.
@@ -52,6 +52,18 @@ Because the assigned variant is a **missense variant**, a linear protein map was
   
 ### 6. What additional experiment would help test the proposed mechanism?
 - A useful experiment would compare normal MYL2 with the p.Gly162Glu variant in an appropriate cardiac muscle model or myosin functional assay. Researchers could measure relevant myosin activity or contractile performance under the same conditions, using appropriate controls and repeated measurements. This would help determine whether the variant produces a measurable functional change.
+
+## Discussion
+
+The MYL2 gene produces myosin regulatory light chain 2, a protein that helps regulate myosin function during cardiac muscle contraction. In this activity, the reference transcript NM_000432.4 was used to identify the protein NP_000423.2, which contains 166 amino acids. The amino-acid composition chart showed the count and frequency of each amino acid in the protein. However, the chart cannot show the exact order of amino acids, their positions, the protein’s three-dimensional structure, or its functional domains. It also cannot explain the effect of a specific mutation on protein function.
+
+The assigned variant, NM_000432.4:c.485G>A (p.Gly162Glu), is a missense variant that changes glycine to glutamic acid at position 162. According to ClinVar, it is classified as likely pathogenic for hypertrophic cardiomyopathy by the ClinGen Cardiomyopathy Variant Curation Expert Panel. Other condition-specific records classify it as pathogenic for hypertrophic cardiomyopathy 10. These classifications support the possible role of the variant in disease, but they must be considered alongside the specific condition and review status reported in each record.
+
+Clinical evidence includes observations of the variant in people with hypertrophic cardiomyopathy and its reported presence in affected relatives from one family. The assessment also considers its rarity in population databases and computational predictions. These findings support an association between the variant and disease. However, clinical evidence does not directly show exactly how the amino acid change affects MYL2 protein activity or cardiac muscle contraction.
+
+Computational predictions suggest that the substitution may affect protein function, but predictions are not the same as experimentally observed effects. The R-based sequence analysis identifies the variant and describes the protein’s amino-acid composition, but it does not directly measure changes in protein structure, myosin activity, or muscle contraction. Therefore, the exact mechanism by which p.Gly162Glu may affect cardiac function remains uncertain based on this analysis alone.
+
+To investigate further, researchers could compare normal MYL2 with the variant form using an appropriate myosin functional assay or cardiac muscle model. They could measure myosin-related activity or contractile performance under the same conditions, with suitable controls and repeated trials. This experiment could help determine whether the variant causes a measurable functional change. Overall, the sequence analysis identifies the variant, clinical evidence supports its association with disease, and further experiments are needed to understand its specific effects on cardiac muscle function.
 
 ## d. Results
 
